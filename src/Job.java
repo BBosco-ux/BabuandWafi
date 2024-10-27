@@ -7,3 +7,4 @@ public interface Job {
     public void hirePerson();
     public void firePerson();
 }
+//==================================================
